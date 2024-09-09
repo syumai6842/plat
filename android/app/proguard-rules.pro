@@ -1,0 +1,4 @@
+-keep class com.google.devtools.build.android.desugar.runtime.** { *; }
+-keep class java.util.** { *; }
+-keep class java.nio.file.** { *; }
+-dontwarn com.google.devtools.build.android.desugar.runtime.ThrowableExtension

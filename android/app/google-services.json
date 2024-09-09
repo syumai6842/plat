@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "72213675463",
+    "firebase_url": "https://plat-54d0b-default-rtdb.firebaseio.com",
+    "project_id": "plat-54d0b",
+    "storage_bucket": "plat-54d0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72213675463:android:eda63903f523cbbfc1ade2",
+        "android_client_info": {
+          "package_name": "com.example.plat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72213675463-jscugubc9ion951qvbtgoeqpr2arms21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plat",
+            "certificate_hash": "1f58816d2167a932290c68e5caff611512426c83"
+          }
+        },
+        {
+          "client_id": "72213675463-jdu99tdteu7raif1b1o4g46anu3trs41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOsxynZwBsvY_-iZGDa2tLaSmcHLbR9d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72213675463-jdu99tdteu7raif1b1o4g46anu3trs41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "72213675463-al7m2bp4ro7qlr39o4geaanlckm4rv05.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72213675463:android:395b54c8f8674091c1ade2",
+        "android_client_info": {
+          "package_name": "com.syumai.plat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72213675463-jdu99tdteu7raif1b1o4g46anu3trs41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOsxynZwBsvY_-iZGDa2tLaSmcHLbR9d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72213675463-jdu99tdteu7raif1b1o4g46anu3trs41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "72213675463-al7m2bp4ro7qlr39o4geaanlckm4rv05.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72213675463:android:3a5ea67c96073c42c1ade2",
+        "android_client_info": {
+          "package_name": "com.tokoro.plat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72213675463-jdu99tdteu7raif1b1o4g46anu3trs41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOsxynZwBsvY_-iZGDa2tLaSmcHLbR9d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72213675463-jdu99tdteu7raif1b1o4g46anu3trs41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "72213675463-al7m2bp4ro7qlr39o4geaanlckm4rv05.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
