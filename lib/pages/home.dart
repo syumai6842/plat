@@ -130,8 +130,8 @@ class HomePageState extends State<HomePage> {
           await docref.set({userId: words});
         },
         listenFor: const Duration(minutes: 10),
-        pauseFor: const Duration(seconds: 5),
-        listenOptions: SpeechListenOptions(cancelOnError: true),
+        pauseFor: const Duration(seconds: 10),
+        listenOptions: SpeechListenOptions(cancelOnError: false),
       );
       Logger().i("end listenning");
     } catch (e) {
